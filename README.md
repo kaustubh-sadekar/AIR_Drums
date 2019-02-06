@@ -12,7 +12,7 @@ colour tags.
 
 ---
 
-
+###### [View a detailed tutorial](Tutorial.md)
 
 ## Installation
 
