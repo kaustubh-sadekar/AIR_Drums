@@ -6,7 +6,7 @@
 
 Augmented reality drums based on concepts of computer vision and image processing. 
 A fun application created to enable users to play virtual drums anywhere simply by using
-colour tags.
+colour tags. I used HSV based color segmentation method to detect blue color.
 
 >- You can use it for entertainment or can learn some key functions of opencv from this code. 
 >- Refer a detailed [Tutorial](Tutorial.md) explaining the [code](Air_Drums.py).
