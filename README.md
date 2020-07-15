@@ -32,8 +32,6 @@ colour tags. I used HSV based color segmentation method to detect blue color. Fo
 
 ##### Refer the [Tutorial](Tutorial.md) for detailed explaination of the code.
 
-
-
 ## License
 
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
