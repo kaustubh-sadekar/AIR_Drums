@@ -1,4 +1,3 @@
-# AIR_Drums 
 
 ### [View a detailed tutorial](Tutorial.md)
 ### [View Video](https://www.youtube.com/watch?v=vsIh6W8XdUE)
